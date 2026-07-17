@@ -81,3 +81,5 @@ Exhaustive explanation of model_pipeline.py's processes, from Kaggle integration
 Documentation of text_cleaner.py's regex-based pre-compilation technique for lightning-fast sanitization on large DataFrames.
 
 Execution Instructions: Complete installation, dependency setup, and execution steps to boot up your Streamlit server.
+<img width="1600" height="816" alt="image" src="https://github.com/user-attachments/assets/9579ab0e-cd13-463b-be9f-9151243ff4de" />
+
