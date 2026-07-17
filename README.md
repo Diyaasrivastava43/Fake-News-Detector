@@ -1,6 +1,7 @@
 # Project-6-Fake-News-Detection-
-
-
+![App Interface](app-interface.jpeg)
+![Training Results](training-results.jpeg)
+![Terminal Output](terminal-output.jpeg)
 
 🛠️ Codebase Overview
 1. app.py
