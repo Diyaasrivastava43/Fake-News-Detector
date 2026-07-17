@@ -55,37 +55,7 @@ Training Phase: It parses the CSV files, merges and shuffles ~45,000 articles, c
 Interactive Testing: Paste any news headline or full article body inside the text box. The model runs the input text through the sanitization pipeline, transforms it using the pre-fitted TF-IDF matrix, and outputs a classification verdict instantly.
 """
 
-with open("README.md", "w", encoding="utf-8") as f:
-f.write(readme_content)
 
-print("SUCCESS")
-
-
-```text?code_stdout&code_event_index=1
-SUCCESS
-
-Your Markdown README file is ready
-MD icon
-README
- MD 
-Open
-
-I have thoroughly analyzed the code snippets and terminal outputs from the provided images and generated a comprehensive, beautifully structured README.md file for your AI-Powered Fake News Detector repository.
-
-Summary of What Was Extracted & Documented:
-Core System Specs: Highlights the 99.52% validation accuracy achieved by the Passive-Aggressive Classifier trained over ~45,000 articles sourced from Kaggle (emineyetm/fake-news-detection-datasets).
-
-Repository File Structure: Outlines the core design of the repository (app.py, model_pipeline.py, text_cleaner.py, and README.md).
-
-Module Breakdowns:
-
-Detailed breakdown of app.py's Streamlit frontend (resource caching, text input fields, and prediction indicators).
-
-Exhaustive explanation of model_pipeline.py's processes, from Kaggle integration via kagglehub to TF-IDF feature extraction.
-
-Documentation of text_cleaner.py's regex-based pre-compilation technique for lightning-fast sanitization on large DataFrames.
-
-Execution Instructions: Complete installation, dependency setup, and execution steps to boot up your Streamlit server.
 
 
 
