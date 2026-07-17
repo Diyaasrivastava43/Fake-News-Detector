@@ -1,4 +1,9 @@
 # Project-6-Fake-News-Detection-
+![Fake News Detector](WhatsApp%20Image%202026-07-17%20at%203.28.47%20PM.jpeg)
+![Fake News Detector](./WhatsApp%20Image%202026-07-17%20at%201.23.58%20PM.jpeg)
+
+
+
 🛠️ Codebase Overview
 1. app.py
 Builds the reactive frontend UI utilizing Streamlit. It loads the model, caches the resource to prevent redundant training, displays status messages, gets raw user input from a text area, and outputs the prediction with clear styling based on classification.
